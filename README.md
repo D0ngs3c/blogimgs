@@ -1,1 +1,1 @@
-# vulns
+# blogimgs
